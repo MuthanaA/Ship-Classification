@@ -7,3 +7,5 @@ This is a deep learning, image classification model for ships. The model would c
 5. Carrier
 
 The model reached a validation accuracy of 89%
+
+Link of the dataset: https://www.kaggle.com/datasets/arpitjain007/game-of-deep-learning-ship-datasets
