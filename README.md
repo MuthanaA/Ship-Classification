@@ -5,4 +5,5 @@ This is a deep learning, image classification model for ships. The model would c
 3. Tanker
 4. Military
 5. Carrier
+
 The model reached a validation accuracy of 89%
